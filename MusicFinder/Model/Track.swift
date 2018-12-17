@@ -13,4 +13,5 @@ struct Track: Codable {
     let collectionPrice: Decimal
     let trackPrice: Decimal
     let releaseDate: String
+    let artworkUrl60: String
 }

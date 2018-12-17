@@ -106,7 +106,6 @@
 				E2A4B2732179119A00F45285 /* Model */,
 				E2A4B2702179043400F45285 /* ViewControllers */,
 				E2A4B2422179033700F45285 /* AppDelegate.swift */,
-				E2A4B2442179033700F45285 /* MainViewController.swift */,
 				E2A4B2462179033800F45285 /* Main.storyboard */,
 				E2A4B2492179033900F45285 /* Assets.xcassets */,
 				E2A4B24B2179033900F45285 /* LaunchScreen.storyboard */,
@@ -138,6 +137,7 @@
 			children = (
 				E2A4B2712179045D00F45285 /* BaseViewController.swift */,
 				E2A4B2762179311600F45285 /* BaseTableViewController.swift */,
+				E2A4B2442179033700F45285 /* MainViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
